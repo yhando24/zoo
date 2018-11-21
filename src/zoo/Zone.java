@@ -36,7 +36,7 @@ public class Zone extends Zoo{
 				animaux = animauxTemp;
 				
 			} else {
-				Animal [] animaux = new Animal [1];
+				animaux = new Animal [1];
 				animaux[0] = animal;
 			}
 	}
